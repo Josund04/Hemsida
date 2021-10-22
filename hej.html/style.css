@@ -1,0 +1,30 @@
+
+nav {
+    background-color: rgb(59, 58, 58);
+    overflow: hidden;
+  }
+  
+  
+nav a {
+    color: #cecece;
+    text-align: right;
+    padding: 14px 205px;
+    text-decoration: none;
+    font-size: 12px;
+  }
+  
+ 
+  nav a:hover {
+    background-color: rgb(59, 58, 58);
+    color: cecece;
+  }
+  
+ 
+  nav a.active {
+    background-color: rgb(59, 58, 58);
+    color: white;
+  }
+
+  nav > ul{
+
+  }
